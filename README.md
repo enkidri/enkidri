@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @enkidri
-- 👀 I’m interested in anime and waifu shit
+- 👀 I’m interested in control system, signal processing and mechanical systems (kind of vague, I know)
 - 🌱 I’m currently learning C++, python, machine learning.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 Hit my DM up right here
 
 <!---
 enkidri/enkidri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
