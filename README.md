@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @enkidri
-- 👀 I’m interested in control system, signal processing and mechanical systems (kind of vague, I know)
-- 🌱 I’m currently learning C++, python, machine learning.
-- 📫 Hit my DM up right here
+- 👀 Interested in control system, signal processing and mechanical systems (kind of vague, I know)
+- 🌱 Trying to figure out github.
+- 📫 If you are interested in my projects, hit my DM up right here
 
 <!---
 enkidri/enkidri is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
