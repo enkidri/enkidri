@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @enkidri
-- 👀 Interested in control system, signal processing and mechanical systems (kind of vague, I know)
+- 👀 Interested in control system, signal processing and mechanical systems (yes it is vague, I know)
 - 🌱 Trying to figure out github.
 - 📫 If you are interested in my projects, hit my DM up right here
 
